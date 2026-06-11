@@ -1,0 +1,1 @@
+SELECT AVG(Sales) FROM employee_sales;
